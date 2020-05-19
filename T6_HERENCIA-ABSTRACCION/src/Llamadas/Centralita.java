@@ -2,7 +2,7 @@ package Llamadas;
 
 import java.util.ArrayList;
 
-public class Centralita extends Llamada {
+public class  Centralita extends Llamada {
 
     private ArrayList<LlamadaLocal> llamadasLocales;
     private ArrayList<LlamadaNacional> llamadasNacionales;
